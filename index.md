@@ -1,4 +1,3 @@
-# osievert's github page
 
 ## Welcome to osievert's home
 
